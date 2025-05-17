@@ -6,7 +6,7 @@ A ideia inicial era tirar uma foto da receita e o assitente identificaria o medi
   2- Confirmar a posologia;
   3- Confirmar a data e hora de início do tratamento;
   4- Criar alertas na agenda do Google para lembrar o horário e a medicação a ser tomada;(Google Agenda)
-  5- Buscar a Indicação, Contraindicação, Efeitos Colaterais, Advetências e Nome Genérico e dando a opção do usuário abrir ou não essa opção; (Google Search)
+  5- Buscar a Indicação, Contraindicação, Efeitos Colaterais, Advetências e Nome Genérico e dando a opção do usuário abrir ou não essa         opção; (Google Search)
   6- Solicitar o CEP do usuário para indicar as farmácias mais próximas para compra do medicamento; (Google Maps)
   7- Fazer um levantamento de preços aproximado para informar como referência apenas. (Google Search)
 
