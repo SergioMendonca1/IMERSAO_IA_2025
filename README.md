@@ -1,19 +1,18 @@
-# 🤖 Sr. Doutor - Assistente Farmacêutico Interativo com Google Gemini e ADK
+# 🤖 Sr. Doutor - Assistente Farmacêutico⚕️ Interativo com Google Gemini e ADK
 
-A inspiração desse projeto é para auxiliar as pessoas mais idosas e que possuem dificuldades para ler as bulas dos medicamentos.
-A ideia inicial era tirar uma foto da receita e o assitente identificaria o medicamento e posologia. Uma vez esses dados capturados as respostas seriam dadas escritas e por voz. A sequência seria a seguinte :
-  1- Confirmar os medicamentos;
-  2- Confirmar a posologia;
-  3- Confirmar a data e hora de início do tratamento;
-  4- Criar alertas na agenda do Google para lembrar o horário e a medicação a ser tomada;(Google Agenda)
-  5- Buscar a Indicação, Contraindicação, Efeitos Colaterais, Advetências e Nome Genérico e dando a opção do usuário abrir ou não essa         opção; (Google Search)
-  6- Solicitar o CEP do usuário para indicar as farmácias mais próximas para compra do medicamento; (Google Maps)
-  7- Fazer um levantamento de preços aproximado para informar como referência apenas. (Google Search)
-
-  Como sou iniciante em tudo isso, não consegui criar tudo isso, mas acredito que tenho o início de um agente bem interessante que poderá chegar na ideia original com um bom desesenvolvimento.
-
-Segue descrição do que foi realizado e está disponível para teste.
-  
+## ➡️Introdução
+A inspiração desse projeto é auxiliar as pessoas mais idosas 👵👴 e que possuem dificuldades para ler 📖❌ as bulas dos medicamentos.
+O projeto completo é tirar uma foto 📸 da receita e o assistente identificar os medicamentos, as posologias, cria alertas com os horários da medicação, informar os principais dados das bulas, informar as farmácias próximas a localização do usuário e trazer uma ideia dos preços. Uma vez esses dados capturados as respostas seriam dadas escritas e por voz. A sequência seria à seguinte:
+1.	Confirmar os medicamentos; 💊
+2.	Confirmar a posologia; 🔢
+3.	Confirmar a data e hora de início do tratamento; ✅
+4.	Criar alertas na agenda do Google para lembrar o horário e a medicação a ser tomada;(Google Agenda) 📅
+5.	Buscar a Indicação, Contraindicação, Efeitos Colaterais, Advertências e Nome Genérico e dando a opção ao usuário abrir ou não essa opção; (Google Search)
+6.	Solicitar o CEP do usuário para indicar as farmácias mais próximas para compra do medicamento; (Google Maps) 📈
+7.	Fazer um levantamento de preços aproximado para informar como referência apenas. (Google Search)
+O projeto, aqui apresentado, traz um assistente IA que fará algumas das etapas propostas, pois, pelas pesquisas efetuadas, o COLAB não possui uma integração direta com o Google Maps. Google Agenda e nem com o Google Search. Na questão do Google Search ela não existe para a busca dos preços, mas funciona para a busca das bulas.
+Existe solução para resolver isso, mas como sou iniciante e o tempo para apresentação é bastante curto não foi possível caminhar mais nesse momento.
+## ⚙️ Entregável
 Este projeto demonstra a criação de um assistente virtual farmacêutico interativo utilizando a API Google Gemini através do SDK `google-generativeai` e o Agent Development Kit (ADK) do Google para a estrutura de agentes. O assistente é capaz de fornecer informações detalhadas sobre medicamentos, incluindo indicações, contraindicações, efeitos colaterais, e também oferece sugestões sobre como encontrar locais de compra e estimativas de preço.
 
 ## 🌟 Funcionalidades Principais
@@ -127,5 +126,3 @@ As instruções do agente são o "cérebro" da sua lógica de conversação. Ela
 ## 🤝 Contribuições
 
 Contribuições para este projeto são bem-vindas! Sinta-se à vontade para sugerir melhorias, correções de bugs ou novas funcionalidades.
-
----
