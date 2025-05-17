@@ -126,6 +126,6 @@ As instruções do agente são o "cérebro" da sua lógica de conversação. Ela
 
 ## 🤝 Contribuições
 
-Contribuições para este projeto são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções de bugs ou novas funcionalidades.
+Contribuições para este projeto são bem-vindas! Sinta-se à vontade para sugerir melhorias, correções de bugs ou novas funcionalidades.
 
 ---
